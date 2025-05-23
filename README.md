@@ -1,8 +1,8 @@
 # EX NO :1  Cloud-account-set-up-and-services
 ~~~
-Name :T Ajay
+Name :Thaksha Rishi
 
-Reg no: 212223230007
+Reg no: 212223100058
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
